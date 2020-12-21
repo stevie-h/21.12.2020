@@ -19,8 +19,8 @@ public class Main
 
         //ex5
         int a, b;
-        //int sum = a + b;
-        //int multiply = a * b;
+        int sum = a + b;
+        int multiply = a * b;
 
         //ex6
         String colour = "grass";
